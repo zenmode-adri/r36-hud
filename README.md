@@ -7,6 +7,9 @@
 
 Real-time HUD overlay for R36S and compatible RK3326 devices running [dArkOSRE-R36](https://github.com/southoz/dArkOSRE-R36). Hooks into any SDL2/EGL game or emulator via `LD_PRELOAD` — no game modifications required.
 
+> [!IMPORTANT]
+> Release and install script coming soon.
+
 ---
 
 ## Features
